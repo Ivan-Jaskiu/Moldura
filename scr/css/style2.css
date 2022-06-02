@@ -1,25 +1,18 @@
-div.bloco {
-    background-image: url(../imagem/wallpaper003.jpg);
-    width: 1280px;
-    height: 200px;
-    border: 1px solid black;
-    border-radius: 20px;
-    margin: 10px;
-    overflow: hidden;
+body {
+    height: 100vh;
+    background-color: black;
+    background-image: url(../imagem/wallpaper002.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
-#q1 {
-    background-position: left top;
-}
 
-#q2 {
-    background-position: left center;
-}
-
-#q3 {
-    background-position: right bottom;
-}
-
-#q4 {
-    background-position: center center;
+main {
+    background-color: azure;
+    width: 400px;
+    padding: 10px;
+    margin: auto;
+    border: 1px solid darkblue;
+    border-radius: 15px;
 }
