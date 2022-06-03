@@ -39,9 +39,11 @@ header > h1 {
     font-size: 10vh;
 }
 
+
 header > p {
     padding-bottom: 50px;
 }
+
 
 a {
     color: white;
@@ -62,21 +64,43 @@ section {
     font-size: 2.5vh;
 }
 
+section > p {
+    padding-bottom: 2em;
+    text-align: center;
+}
+
 section.normal {
     background-color: white;
     color: black;
+    text-align: center;
 }
 
 section.imagem {
     background-color: rgb(51, 51, 51);
     color: white;
+    box-shadow: inset 6px 6px 12px 0px rgba(0, 0, 0, 0.562);
+    background-attachment: fixed;
+    text-align: center;
 
 }
 
 section.imagem > p {
     display: inline-block;
     padding: 5px;
-    background-color: rgba(0, 0, 0, 0.24);
+    background-color: rgba(0, 0, 0, 0.432);
+    text-shadow: 2px 2px 0px black;
+}
+
+#img01 {
+    background-image: url(../imagem/background001.jpg);
+    background-position: right center;
+    background-size: cover;
+}
+
+#img02 {
+    background-image: url(../imagem/background002.jpg);
+    background-size: cover;
+
 }
 
 footer {
