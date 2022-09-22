@@ -2,7 +2,7 @@
 
 ![preview](./.github/moldura.png)
 
-Projeto construido do evento Next Level da Rocketseat.
+Projeto construido com ajuda do(@CursoEmVideo)
 
 [Clique aqui para acessar](https:///Ivan-Jaskiu.github.io/Moldura/scr/index.html)
 
