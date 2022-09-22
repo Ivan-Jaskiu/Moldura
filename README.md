@@ -1,6 +1,6 @@
 # Cordel Moderno
 
-![preview](./.github/preview.png)
+![preview](./.github/moldura.png)
 
 Projeto construido do evento Next Level da Rocketseat.
 
